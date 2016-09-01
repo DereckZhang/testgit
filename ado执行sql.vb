@@ -30,3 +30,4 @@ Sub Test4()
     Set Rst = Nothing
 End Sub
 try again
+add another try
